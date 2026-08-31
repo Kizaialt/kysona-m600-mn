@@ -2,17 +2,17 @@
 <Монгол>
   <FontSize>9.5</FontSize>
   <Control>
-    <label_KeyDebounce>Доргилтын хугацаа</label_KeyDebounce>
+    <label_KeyDebounce>Debounce хугацаа</label_KeyDebounce>
     <label_DPIGrade>DPI шатлал</label_DPIGrade>
     <label_DPISetting>DPI тохиргоо</label_DPISetting>
-    <label_MotionSync>Хөдөлгөөний синхрон</label_MotionSync>
-    <label_FixLine>Өнцөг тэгшлэх</label_FixLine>
-    <label_Ripple>Чичиргээ засах</label_Ripple>
+    <label_MotionSync>Motion Sync</label_MotionSync>
+    <label_FixLine>Angle Snapping</label_FixLine>
+    <label_Ripple>Ripple Control</label_Ripple>
     <label_LOD>LOD</label_LOD>
     <label_ModeSelect>Горим сонгох</label_ModeSelect>
     <label_FullPerformance>Дээд хүчин чадал</label_FullPerformance>
-    <label_SensorSetting>Мэдрэгчийн тохиргоо</label_SensorSetting>
-    <label_Report>Дуудлагын давтамж</label_Report>
+    <label_SensorSetting>Сенсорын тохиргоо</label_SensorSetting>
+    <label_Report>Polling Rate</label_Report>
     <label_DPIBrightness>Тодрол</label_DPIBrightness>
     <label_DPISpeed>Хурд</label_DPISpeed>
     <label_DPIEffect>DPI гэрэлтүүлгийн эффект</label_DPIEffect>
@@ -185,7 +185,7 @@
     <PowerModeSelectTips>Хол зайн горимд холбооны зай нэмэгдэж, саад тэсвэрлэх чадвар сайжирна. Харин тэжээлийн зарцуулалт нэмэгдэж, ажиллах хугацаа багасна</PowerModeSelectTips>
     <MousepadSurfaceCal>Хулганы дэвсгэрийн калибрац</MousepadSurfaceCal>
     <ManualCal>Гараар</ManualCal>
-    <NonsupCal>Энэ мэдрэгч гарын калибрацыг дэмждэггүй</NonsupCal>
+    <NonsupCal>Энэ сенсор гарын калибрацыг дэмждэггүй</NonsupCal>
     <MousepadSurfaceCalTips>Хулгана болон дэвсгэрт тань хамгийн тохиромжтой утгыг олж, хөдөлгөөний нарийвчлалыг сайжруулна</MousepadSurfaceCalTips>
     <WinSystemMouse>Windows хулганы тохиргоо</WinSystemMouse>
     <StartCal>“Эхлэх” товчийг дараад хулганаа сумны чиглэлд хөдөлгөнө үү.</StartCal>
@@ -196,7 +196,7 @@
     <Back>Буцах</Back>
     <Retry>Дахин оролдох</Retry>
     <DongleLED>Хүлээн авагч дээрх LED-ийн харуулах мэдээллийг тохируулах：</DongleLED>
-    <ConnectionState>Холболтын төлөв ба дуудлагын давтамж (хулгана холбогдсон үед). Улаан (125Hz), Цэнхэр (250Hz), Шар (500Hz), Улбар шар (1000Hz), Ягаан (2000Hz), Ногоон (4000Hz).</ConnectionState>
+    <ConnectionState>Холболтын төлөв ба Polling Rate (хулгана холбогдсон үед). Улаан (125Hz), Цэнхэр (250Hz), Шар (500Hz), Улбар шар (1000Hz), Нил ягаан (2000Hz), Ногоон (4000Hz).</ConnectionState>
     <BatteryState>Цэнэгийн төлөв (хулганы одоогийн цэнэгээр). Ногоон (100%), Шар (66%), Улбар шар (33%), Улаан (0%)</BatteryState>
     <OnlyBattery>Зөвхөн цэнэгийн анхааруулга (гэрэл унтраалттай байж, цэнэг дуусах үед л улаанаар анивчина)</OnlyBattery>
     <Language>Хэл</Language>
@@ -215,12 +215,12 @@
     <DontShowAgain>Дараа дахин харуулахгүй</DontShowAgain>
     <EnterUse>Ашиглаж эхлэхийн тулд зураг дээр дарна уу</EnterUse>
     <ReturnHomePage>Нүүр хуудас руу буцах</ReturnHomePage>
-    <MotionSyncDes>хөдөлгөөний синхрон</MotionSyncDes>
-    <FixLineDes>өнцөг тэгшлэх</FixLineDes>
-    <RippleDes>чичиргээ засах</RippleDes>
+    <MotionSyncDes>Motion Sync</MotionSyncDes>
+    <FixLineDes>Angle Snapping</FixLineDes>
+    <RippleDes>Ripple Control</RippleDes>
     <LODDes>Өргөх мэдрэх тохиргоо</LODDes>
     <ModeSelectDes> LP: бага тэжээлийн горим; HP: өндөр хүчин чадлын горим; corded: утастай тоглоомын горим</ModeSelectDes>
-    <FullPerformanceDes>Мэдрэгчийн LED тод асч, мэдрэгч дээд хүчин чадлаараа ажиллана</FullPerformanceDes>
+    <FullPerformanceDes>Сенсорын LED тод асч, сенсор дээд хүчин чадлаараа ажиллана</FullPerformanceDes>
   </Dialog>
   <KeyFunction>
     <name>Зүүн товч</name>
@@ -228,7 +228,7 @@
     <name>Дунд товч</name>
     <name>Буцах</name>
     <name>Урагш</name>
-    <name>Давтамж солих</name>
+    <name>Polling Rate солих</name>
     <name>Галын товч</name>
     <name>Хослол товч</name>
     <name>Идэвхгүй</name>
