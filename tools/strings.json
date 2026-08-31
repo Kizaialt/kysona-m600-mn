@@ -1,0 +1,1442 @@
+[
+ {
+  "sect": "",
+  "key": "FontSize",
+  "en": "9.5"
+ },
+ {
+  "sect": "Control",
+  "key": "label_KeyDebounce",
+  "en": "Debounce Time"
+ },
+ {
+  "sect": "Control",
+  "key": "label_DPIGrade",
+  "en": "DPI Stages"
+ },
+ {
+  "sect": "Control",
+  "key": "label_DPISetting",
+  "en": "DPI Setting"
+ },
+ {
+  "sect": "Control",
+  "key": "label_MotionSync",
+  "en": "Motion sync"
+ },
+ {
+  "sect": "Control",
+  "key": "label_FixLine",
+  "en": "Angle snapping"
+ },
+ {
+  "sect": "Control",
+  "key": "label_Ripple",
+  "en": "Ripple control"
+ },
+ {
+  "sect": "Control",
+  "key": "label_LOD",
+  "en": "LOD"
+ },
+ {
+  "sect": "Control",
+  "key": "label_ModeSelect",
+  "en": "Mode Select"
+ },
+ {
+  "sect": "Control",
+  "key": "label_FullPerformance",
+  "en": "Peak Performance"
+ },
+ {
+  "sect": "Control",
+  "key": "label_SensorSetting",
+  "en": "Sensor Setting"
+ },
+ {
+  "sect": "Control",
+  "key": "label_Report",
+  "en": "Report Rate"
+ },
+ {
+  "sect": "Control",
+  "key": "label_DPIBrightness",
+  "en": "Brightness"
+ },
+ {
+  "sect": "Control",
+  "key": "label_DPISpeed",
+  "en": "Speed"
+ },
+ {
+  "sect": "Control",
+  "key": "label_DPIEffect",
+  "en": "DPI Light Effects"
+ },
+ {
+  "sect": "Control",
+  "key": "label_CycleTimes",
+  "en": "Times of cycles"
+ },
+ {
+  "sect": "Control",
+  "key": "label_UntilThisKeyPressed",
+  "en": "Cycle Until This Key Pressed"
+ },
+ {
+  "sect": "Control",
+  "key": "label_UntilKeyPressed",
+  "en": "Cycle Until Key Pressed"
+ },
+ {
+  "sect": "Control",
+  "key": "label_UntilKeyReleased",
+  "en": "Cycle Until Key Released"
+ },
+ {
+  "sect": "Control",
+  "key": "label_InsertEvent",
+  "en": "Insert Action"
+ },
+ {
+  "sect": "Control",
+  "key": "label_AutoDelay",
+  "en": "Automatic Insertion Delay"
+ },
+ {
+  "sect": "Control",
+  "key": "label_DefaultDelay",
+  "en": "Default Time Delay"
+ },
+ {
+  "sect": "Control",
+  "key": "label_KeyList",
+  "en": "Keys List"
+ },
+ {
+  "sect": "Control",
+  "key": "label_MacroList",
+  "en": "Macros List"
+ },
+ {
+  "sect": "Control",
+  "key": "label_MovingCloseLight",
+  "en": "Lights off when moving "
+ },
+ {
+  "sect": "Control",
+  "key": "label_PowerSaveTime",
+  "en": "Time until lights off after not moving"
+ },
+ {
+  "sect": "Control",
+  "key": "label_LEDB",
+  "en": "B:"
+ },
+ {
+  "sect": "Control",
+  "key": "label_LEDG",
+  "en": "G:"
+ },
+ {
+  "sect": "Control",
+  "key": "label_LEDR",
+  "en": "R:"
+ },
+ {
+  "sect": "Control",
+  "key": "label_LEDPreset",
+  "en": "Default Colors"
+ },
+ {
+  "sect": "Control",
+  "key": "label_LEDPreview",
+  "en": "Color Preview"
+ },
+ {
+  "sect": "Control",
+  "key": "label_LEDColor",
+  "en": "Light Color"
+ },
+ {
+  "sect": "Control",
+  "key": "label_LightSpeed",
+  "en": "Speed"
+ },
+ {
+  "sect": "Control",
+  "key": "label_LightBrightness",
+  "en": "Brightness"
+ },
+ {
+  "sect": "Control",
+  "key": "label_LightMode",
+  "en": "Lighting Mode"
+ },
+ {
+  "sect": "Control",
+  "key": "customRecordMacro1_start",
+  "en": "Start Recording"
+ },
+ {
+  "sect": "Control",
+  "key": "customRecordMacro1_stop",
+  "en": "Stop Recording"
+ },
+ {
+  "sect": "Control",
+  "key": "customButton_Export",
+  "en": "Export"
+ },
+ {
+  "sect": "Control",
+  "key": "customButton_Import",
+  "en": "Import"
+ },
+ {
+  "sect": "Control",
+  "key": "customButton_Reset",
+  "en": "Restore"
+ },
+ {
+  "sect": "Control",
+  "key": "customButton_Save",
+  "en": "Save"
+ },
+ {
+  "sect": "Control",
+  "key": "customButton_DeleteButton",
+  "en": "Delete"
+ },
+ {
+  "sect": "Control",
+  "key": "customButton_ModifyButton",
+  "en": "Modify"
+ },
+ {
+  "sect": "Control",
+  "key": "customButton_DeleteMacro",
+  "en": "Delete"
+ },
+ {
+  "sect": "Control",
+  "key": "customButton_NewMacro",
+  "en": "New Macro"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "ComboBoxName",
+  "en": "customComboBox_Config"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "Profile 1"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "Profile 2"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "Profile 3"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "Profile 4"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "ComboBoxName",
+  "en": "customComboBox_LOD"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "1mm"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "2mm"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "ComboBoxName",
+  "en": "customComboBox_ModeSelect"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "LP"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "HP"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "Corded"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "ComboBoxName",
+  "en": "customComboBox_FullPerformance"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "30sec"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "1min"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "2min"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "5min"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "10min"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "15min"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "ComboBoxName",
+  "en": "customComboBox_DPIEffect"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "Off"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "Fixed light"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "Flicker"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "ComboBoxName",
+  "en": "customComboBox_InsertEvent"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "Key Press"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "Key Release"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "Delay"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "Left Key"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "Right Key"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "Middle Key"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "Forward Key"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "Back Key"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "ComboBoxName",
+  "en": "customComboBox_PowerSaveTime"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "10sec"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "30sec"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "1min"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "5min"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "10min"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "15min"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "20min"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "25min"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "30min"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "35min"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "40min"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "ComboBoxName",
+  "en": "customComboBox_LEDMode"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "OFF"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "Rainbow Moving"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "Single color"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "Rainbow Fixed"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "Neon"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "Rainbow Flicker"
+ },
+ {
+  "sect": "ComboBox",
+  "key": "Item",
+  "en": "Colorful Fixed"
+ },
+ {
+  "sect": "ToolStripMenuItem",
+  "key": "ToolStripMenuItem_OpenMenu",
+  "en": "Open Menu"
+ },
+ {
+  "sect": "ToolStripMenuItem",
+  "key": "ToolStripMenuItem_Exit",
+  "en": "Exit"
+ },
+ {
+  "sect": "ToolStripMenuItem",
+  "key": "ToolStripMenuItem_Modify",
+  "en": "Modify"
+ },
+ {
+  "sect": "ToolStripMenuItem",
+  "key": "ToolStripMenuItem_DeleteKeys",
+  "en": "Delete"
+ },
+ {
+  "sect": "ToolStripMenuItem",
+  "key": "ToolStripMenuItem_ExportMacro",
+  "en": "Export"
+ },
+ {
+  "sect": "ToolStripMenuItem",
+  "key": "ToolStripMenuItem_Rename",
+  "en": "Rename"
+ },
+ {
+  "sect": "ToolStripMenuItem",
+  "key": "ToolStripMenuItem_DeleteMacro",
+  "en": "Delete"
+ },
+ {
+  "sect": "ToolStripMenuItem",
+  "key": "ToolStripMenuItem_NewMacro",
+  "en": "Create New Macro"
+ },
+ {
+  "sect": "ToolStripMenuItem",
+  "key": "ToolStripMenuItem_ImportMacro",
+  "en": "Import"
+ },
+ {
+  "sect": "Setting",
+  "key": "DriveVersion",
+  "en": "Drive ver："
+ },
+ {
+  "sect": "Setting",
+  "key": "DongleVersion",
+  "en": "Receiver Firmware ver："
+ },
+ {
+  "sect": "Setting",
+  "key": "MouseVersion",
+  "en": "Mouse Firmware ver："
+ },
+ {
+  "sect": "Dialog",
+  "key": "Macro",
+  "en": "Macro"
+ },
+ {
+  "sect": "Dialog",
+  "key": "NoResources",
+  "en": "No Resources Files"
+ },
+ {
+  "sect": "Dialog",
+  "key": "ErrorDriveConfig",
+  "en": "Drive Config Error or No Exist"
+ },
+ {
+  "sect": "Dialog",
+  "key": "ProgramRuning",
+  "en": "The program is running"
+ },
+ {
+  "sect": "Dialog",
+  "key": "DeviceConnecting",
+  "en": "Please wait，Update happening"
+ },
+ {
+  "sect": "Dialog",
+  "key": "ConnectTimeout",
+  "en": "Timeout，Please move mouse"
+ },
+ {
+  "sect": "Dialog",
+  "key": "NoDevice",
+  "en": "No operable device is detected"
+ },
+ {
+  "sect": "Dialog",
+  "key": "MaxComboKey",
+  "en": "A key combination can have a maximum of three keys"
+ },
+ {
+  "sect": "Dialog",
+  "key": "ErrorMacroFile",
+  "en": "Import File Is Error"
+ },
+ {
+  "sect": "Dialog",
+  "key": "CreateMacro",
+  "en": "Please first create new macro"
+ },
+ {
+  "sect": "Dialog",
+  "key": "SameMacro",
+  "en": "This macro name is already used "
+ },
+ {
+  "sect": "Dialog",
+  "key": "EditMacroName",
+  "en": "Please enter the macro name"
+ },
+ {
+  "sect": "Dialog",
+  "key": "SelectMacro",
+  "en": "Please select a macro"
+ },
+ {
+  "sect": "Dialog",
+  "key": "StopMacro",
+  "en": "Please first stop recording macro"
+ },
+ {
+  "sect": "Dialog",
+  "key": "InsertKey",
+  "en": "Please enter a key"
+ },
+ {
+  "sect": "Dialog",
+  "key": "Delete",
+  "en": "Are you sure you want to delete？"
+ },
+ {
+  "sect": "Dialog",
+  "key": "MaxMacroKey",
+  "en": "Macro Key reached the Max limit"
+ },
+ {
+  "sect": "Dialog",
+  "key": "InsertDelay",
+  "en": "Please enter delay time（ms）"
+ },
+ {
+  "sect": "Dialog",
+  "key": "FireKeyTimes",
+  "en": "Times（0-3）"
+ },
+ {
+  "sect": "Dialog",
+  "key": "FireKeyInterval",
+  "en": "Interval（10-255）"
+ },
+ {
+  "sect": "Dialog",
+  "key": "InputComboKey",
+  "en": "Please enter keystroke"
+ },
+ {
+  "sect": "Dialog",
+  "key": "FireKeyTips",
+  "en": "Set repeat times to 0, repeat while key is pressed, stop when key is released."
+ },
+ {
+  "sect": "Dialog",
+  "key": "ReserveLeftKey",
+  "en": "Must keep Left key"
+ },
+ {
+  "sect": "Dialog",
+  "key": "DebounceTips",
+  "en": "Warning: If the delay is reduced, double click may occur. If double click occurs, please adjust delay until there is no double click"
+ },
+ {
+  "sect": "Dialog",
+  "key": "ConfigSelect",
+  "en": "Switch config is not supported"
+ },
+ {
+  "sect": "Dialog",
+  "key": "ResetConfig",
+  "en": "Are you sure you want to restore config?"
+ },
+ {
+  "sect": "Dialog",
+  "key": "ImportConfig",
+  "en": "Please wait a moment，Importing config"
+ },
+ {
+  "sect": "Dialog",
+  "key": "ErrorConfig",
+  "en": "Importing config Error"
+ },
+ {
+  "sect": "Dialog",
+  "key": "ErrorDevice",
+  "en": "Importing config does not match the device"
+ },
+ {
+  "sect": "Dialog",
+  "key": "MultiOnline",
+  "en": "If multiple devices are the same，Reserve devices that need to be operated"
+ },
+ {
+  "sect": "Dialog",
+  "key": "EnterPair",
+  "en": "Whether you need to repair"
+ },
+ {
+  "sect": "Dialog",
+  "key": "Offline",
+  "en": "Device Offline，Please move mouse"
+ },
+ {
+  "sect": "Dialog",
+  "key": "NewDeviceOnline",
+  "en": "New device online"
+ },
+ {
+  "sect": "Dialog",
+  "key": "LeftShift",
+  "en": "Left Shift"
+ },
+ {
+  "sect": "Dialog",
+  "key": "RightShift",
+  "en": "Right Shift"
+ },
+ {
+  "sect": "Dialog",
+  "key": "MoveUp",
+  "en": "Move Up"
+ },
+ {
+  "sect": "Dialog",
+  "key": "MoveDown",
+  "en": "Move Down"
+ },
+ {
+  "sect": "Dialog",
+  "key": "OK",
+  "en": "OK(Enter)"
+ },
+ {
+  "sect": "Dialog",
+  "key": "Cancel",
+  "en": "Cancel(Esc)"
+ },
+ {
+  "sect": "Dialog",
+  "key": "SelectDeviceFirst",
+  "en": "Please select device"
+ },
+ {
+  "sect": "Dialog",
+  "key": "SelectDevice",
+  "en": "Select a device"
+ },
+ {
+  "sect": "Dialog",
+  "key": "StartPair",
+  "en": "Start Pair(Space)"
+ },
+ {
+  "sect": "Dialog",
+  "key": "PairTips",
+  "en": "Press left, right and middle button on mouse together, then there's yellow flashing light to indicate the start of pairing. Press space bar again,,or click“Start Pair”driver will run into pairing mode."
+ },
+ {
+  "sect": "Dialog",
+  "key": "MultiPairDevice",
+  "en": "More than one receiver detected, Please Keep the  receiver that you want to pair"
+ },
+ {
+  "sect": "Dialog",
+  "key": "NoPairDevice",
+  "en": "No receiver is detected, Please confirm the  receiver is plugged in "
+ },
+ {
+  "sect": "Dialog",
+  "key": "CantPair",
+  "en": "Must be in wireless mode to pair"
+ },
+ {
+  "sect": "Dialog",
+  "key": "OnlyWired",
+  "en": "The mouse can only be upgraded in wired mode"
+ },
+ {
+  "sect": "Dialog",
+  "key": "DevicePairing",
+  "en": "Pairing"
+ },
+ {
+  "sect": "Dialog",
+  "key": "PairSuccess",
+  "en": "Pair Success"
+ },
+ {
+  "sect": "Dialog",
+  "key": "PairFail",
+  "en": "Pair Fail"
+ },
+ {
+  "sect": "Dialog",
+  "key": "PairRetry",
+  "en": "Retry"
+ },
+ {
+  "sect": "Dialog",
+  "key": "PairingTool",
+  "en": "Pairing Tool"
+ },
+ {
+  "sect": "Dialog",
+  "key": "CheckUpdate",
+  "en": "Check Update"
+ },
+ {
+  "sect": "Dialog",
+  "key": "CheckingUpdate",
+  "en": "Checking"
+ },
+ {
+  "sect": "Dialog",
+  "key": "LatestVersion",
+  "en": "up-to-date"
+ },
+ {
+  "sect": "Dialog",
+  "key": "Updating",
+  "en": "Updating"
+ },
+ {
+  "sect": "Dialog",
+  "key": "UpdateSuccess",
+  "en": "Update Success"
+ },
+ {
+  "sect": "Dialog",
+  "key": "UpdateFail",
+  "en": "Update Fail"
+ },
+ {
+  "sect": "Dialog",
+  "key": "UpdatingDontMove",
+  "en": "Device Updating，Please don't unplug"
+ },
+ {
+  "sect": "Dialog",
+  "key": "ConnectDevice",
+  "en": "Please Connect Your Gaming Device"
+ },
+ {
+  "sect": "Dialog",
+  "key": "RepairDevice",
+  "en": "Please update the failed device first (keyboard enter or click the exclamation mark)"
+ },
+ {
+  "sect": "Dialog",
+  "key": "AdvancedSetting",
+  "en": "Advanced Setting"
+ },
+ {
+  "sect": "Dialog",
+  "key": "PowerBetterMode",
+  "en": "Long distance"
+ },
+ {
+  "sect": "Dialog",
+  "key": "CantSet",
+  "en": "Must be in wireless mode to set"
+ },
+ {
+  "sect": "Dialog",
+  "key": "PowerModeSelectTips",
+  "en": "In long-distance mode, the distance will be farther and the anti-interference ability will be stronger, the corresponding working current will be increased, and the use time will be reduced"
+ },
+ {
+  "sect": "Dialog",
+  "key": "MousepadSurfaceCal",
+  "en": "Mousepad Surface Calibration"
+ },
+ {
+  "sect": "Dialog",
+  "key": "ManualCal",
+  "en": "Manual"
+ },
+ {
+  "sect": "Dialog",
+  "key": "NonsupCal",
+  "en": "This Sensor nonsupport manual calibration"
+ },
+ {
+  "sect": "Dialog",
+  "key": "MousepadSurfaceCalTips",
+  "en": "Find the best matching parameters for your mouse and mouse pad and experience a higher level of tracking accuracy"
+ },
+ {
+  "sect": "Dialog",
+  "key": "WinSystemMouse",
+  "en": "Windows Mouse Properties"
+ },
+ {
+  "sect": "Dialog",
+  "key": "StartCal",
+  "en": "Please click the \"Start\" button and move the mouse in the direction of the arrow."
+ },
+ {
+  "sect": "Dialog",
+  "key": "BeingCal",
+  "en": "Calibrating! Keep moving the mouse until the calibration is complete"
+ },
+ {
+  "sect": "Dialog",
+  "key": "CalPass",
+  "en": "Cal Pass"
+ },
+ {
+  "sect": "Dialog",
+  "key": "CalFail",
+  "en": "Cal Fail"
+ },
+ {
+  "sect": "Dialog",
+  "key": "Start",
+  "en": "Start"
+ },
+ {
+  "sect": "Dialog",
+  "key": "Back",
+  "en": "Back"
+ },
+ {
+  "sect": "Dialog",
+  "key": "Retry",
+  "en": "Retry"
+ },
+ {
+  "sect": "Dialog",
+  "key": "DongleLED",
+  "en": "Set the information conveyed by the LED indicator on the dongle："
+ },
+ {
+  "sect": "Dialog",
+  "key": "ConnectionState",
+  "en": "Connection State and ReportRate（Must when mouse connect。Red（125Hz），Blue（250Hz），Yellow（500Hz），Orange（1000Hz），purple（2000Hz），Green（4000Hz））。"
+ },
+ {
+  "sect": "Dialog",
+  "key": "BatteryState",
+  "en": "Battery State（Base on the current battery level of the mouse，Green（100%），Yellow（66%），Orange（33%）and Red（0%））"
+ },
+ {
+  "sect": "Dialog",
+  "key": "OnlyBattery",
+  "en": "Only battery warning（always keep light off，red light blinks only when the mouse is low battery。）"
+ },
+ {
+  "sect": "Dialog",
+  "key": "Language",
+  "en": "Language"
+ },
+ {
+  "sect": "Dialog",
+  "key": "DeviceInfo",
+  "en": "Device Information"
+ },
+ {
+  "sect": "Dialog",
+  "key": "Other",
+  "en": "Other"
+ },
+ {
+  "sect": "Dialog",
+  "key": "Pair",
+  "en": "Pair(Space)"
+ },
+ {
+  "sect": "Dialog",
+  "key": "RunOnBoot",
+  "en": "Run On System Boot"
+ },
+ {
+  "sect": "Dialog",
+  "key": "OfflineTips1",
+  "en": "If the mouse is offline, move the mouse first"
+ },
+ {
+  "sect": "Dialog",
+  "key": "OfflineTips2",
+  "en": "If it is not paired, click the pattern to enter the pairing"
+ },
+ {
+  "sect": "Dialog",
+  "key": "OfflineTips3",
+  "en": "If it is not paired, click the space bar to enter the pairing"
+ },
+ {
+  "sect": "Dialog",
+  "key": "DefaultDelayMin",
+  "en": "The default delay is no less than 10"
+ },
+ {
+  "sect": "Dialog",
+  "key": "DevNewVerTips",
+  "en": "Please upgrade the mouse and receiver to the latest firmware at the same time, after all the upgrades are successful, please pair before use!"
+ },
+ {
+  "sect": "Dialog",
+  "key": "DongleIsNewTips",
+  "en": "Found mouse new firmware, please update in wired!"
+ },
+ {
+  "sect": "Dialog",
+  "key": "MouseIsNewTips",
+  "en": "Found recevier new firmware, update now？"
+ },
+ {
+  "sect": "Dialog",
+  "key": "FirmwareNewTips",
+  "en": "Found new firmware，please update！"
+ },
+ {
+  "sect": "Dialog",
+  "key": "DontShowAgain",
+  "en": "Don't show next time"
+ },
+ {
+  "sect": "Dialog",
+  "key": "EnterUse",
+  "en": "Click on the pattern to start using it"
+ },
+ {
+  "sect": "Dialog",
+  "key": "ReturnHomePage",
+  "en": "Back to Home page"
+ },
+ {
+  "sect": "Dialog",
+  "key": "MotionSyncDes",
+  "en": "motion sync"
+ },
+ {
+  "sect": "Dialog",
+  "key": "FixLineDes",
+  "en": "angle snapping"
+ },
+ {
+  "sect": "Dialog",
+  "key": "RippleDes",
+  "en": "ripple control"
+ },
+ {
+  "sect": "Dialog",
+  "key": "LODDes",
+  "en": "Lift detection options"
+ },
+ {
+  "sect": "Dialog",
+  "key": "ModeSelectDes",
+  "en": " LP：Low power mode；HP：high performance mode；corded：corded gaming mode"
+ },
+ {
+  "sect": "Dialog",
+  "key": "FullPerformanceDes",
+  "en": "The sensor LED is highlighted and sensor is in maximum performance mode"
+ },
+ {
+  "sect": "KeyFunction",
+  "key": "name",
+  "en": "Left Button"
+ },
+ {
+  "sect": "KeyFunction",
+  "key": "name",
+  "en": "Right Button"
+ },
+ {
+  "sect": "KeyFunction",
+  "key": "name",
+  "en": "Middle Button"
+ },
+ {
+  "sect": "KeyFunction",
+  "key": "name",
+  "en": "Back"
+ },
+ {
+  "sect": "KeyFunction",
+  "key": "name",
+  "en": "Forward"
+ },
+ {
+  "sect": "KeyFunction",
+  "key": "name",
+  "en": "Polling Rate Switch"
+ },
+ {
+  "sect": "KeyFunction",
+  "key": "name",
+  "en": "Fire key"
+ },
+ {
+  "sect": "KeyFunction",
+  "key": "name",
+  "en": "Combo Key"
+ },
+ {
+  "sect": "KeyFunction",
+  "key": "name",
+  "en": "Disabled"
+ },
+ {
+  "sect": "KeyFunction",
+  "key": "name",
+  "en": "Scroll Up/Down"
+ },
+ {
+  "sect": "KeyFunction",
+  "key": "name",
+  "en": "Scroll Left/Right"
+ },
+ {
+  "sect": "KeyFunction",
+  "key": "name",
+  "en": "DPI Switch"
+ },
+ {
+  "sect": "KeyFunction",
+  "key": "name",
+  "en": "Media Key"
+ },
+ {
+  "sect": "KeyFunction",
+  "key": "name",
+  "en": "DPI Lock"
+ },
+ {
+  "sect": "KeyFunction",
+  "key": "name",
+  "en": "Macro"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "DPI Loop"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "DPI+"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "DPI-"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "Scroll Left"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "Scroll Right"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "Scroll Up"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "Scroll Down"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "Media Player"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "Play/Pause"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "Next"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "Previous"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "Stop"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "Mute"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "Volume Up"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "Volume Down"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "Email"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "Calculator"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "My Computer"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "Home Page"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "Search"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "Web Forward"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "Web Back"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "Stop"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "Refresh"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "Favorites"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "All Lights On/Off"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "Light Strip On/Off"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "Loop switch light effects"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "100"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "200"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "300"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "400"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "500"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "600"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "700"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "800"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "900"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "1000"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "1100"
+ },
+ {
+  "sect": "SubKeyFunction",
+  "key": "name",
+  "en": "1200"
+ },
+ {
+  "sect": "DebounceTime",
+  "key": "name",
+  "en": "0ms"
+ },
+ {
+  "sect": "DebounceTime",
+  "key": "name",
+  "en": "1ms"
+ },
+ {
+  "sect": "DebounceTime",
+  "key": "name",
+  "en": "2ms"
+ },
+ {
+  "sect": "DebounceTime",
+  "key": "name",
+  "en": "3ms"
+ },
+ {
+  "sect": "DebounceTime",
+  "key": "name",
+  "en": "4ms"
+ },
+ {
+  "sect": "DebounceTime",
+  "key": "name",
+  "en": "5ms"
+ },
+ {
+  "sect": "DebounceTime",
+  "key": "name",
+  "en": "6ms"
+ },
+ {
+  "sect": "DebounceTime",
+  "key": "name",
+  "en": "7ms"
+ },
+ {
+  "sect": "DebounceTime",
+  "key": "name",
+  "en": "8ms"
+ },
+ {
+  "sect": "DebounceTime",
+  "key": "name",
+  "en": "9ms"
+ },
+ {
+  "sect": "DebounceTime",
+  "key": "name",
+  "en": "10ms"
+ },
+ {
+  "sect": "DebounceTime",
+  "key": "name",
+  "en": "11ms"
+ },
+ {
+  "sect": "DebounceTime",
+  "key": "name",
+  "en": "12ms"
+ },
+ {
+  "sect": "DebounceTime",
+  "key": "name",
+  "en": "13ms"
+ },
+ {
+  "sect": "DebounceTime",
+  "key": "name",
+  "en": "14ms"
+ },
+ {
+  "sect": "DebounceTime",
+  "key": "name",
+  "en": "15ms"
+ },
+ {
+  "sect": "DebounceTime",
+  "key": "name",
+  "en": "16ms"
+ },
+ {
+  "sect": "DebounceTime",
+  "key": "name",
+  "en": "17ms"
+ },
+ {
+  "sect": "DebounceTime",
+  "key": "name",
+  "en": "18ms"
+ },
+ {
+  "sect": "DebounceTime",
+  "key": "name",
+  "en": "19ms"
+ },
+ {
+  "sect": "DebounceTime",
+  "key": "name",
+  "en": "20ms"
+ }
+]

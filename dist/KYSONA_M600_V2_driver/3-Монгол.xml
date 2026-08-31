@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Монгол>
+  <FontSize>9.5</FontSize>
+  <Control>
+    <label_KeyDebounce>Доргилтын хугацаа</label_KeyDebounce>
+    <label_DPIGrade>DPI шатлал</label_DPIGrade>
+    <label_DPISetting>DPI тохиргоо</label_DPISetting>
+    <label_MotionSync>Хөдөлгөөний синхрон</label_MotionSync>
+    <label_FixLine>Өнцөг тэгшлэх</label_FixLine>
+    <label_Ripple>Чичиргээ засах</label_Ripple>
+    <label_LOD>LOD</label_LOD>
+    <label_ModeSelect>Горим сонгох</label_ModeSelect>
+    <label_FullPerformance>Дээд хүчин чадал</label_FullPerformance>
+    <label_SensorSetting>Мэдрэгчийн тохиргоо</label_SensorSetting>
+    <label_Report>Дуудлагын давтамж</label_Report>
+    <label_DPIBrightness>Тодрол</label_DPIBrightness>
+    <label_DPISpeed>Хурд</label_DPISpeed>
+    <label_DPIEffect>DPI гэрлийн эффект</label_DPIEffect>
+    <label_CycleTimes>Давтах тоо</label_CycleTimes>
+    <label_UntilThisKeyPressed>Энэ товчийг дартал давтах</label_UntilThisKeyPressed>
+    <label_UntilKeyPressed>Товч дартал давтах</label_UntilKeyPressed>
+    <label_UntilKeyReleased>Товч суллатал давтах</label_UntilKeyReleased>
+    <label_InsertEvent>Үйлдэл оруулах</label_InsertEvent>
+    <label_AutoDelay>Автоматаар саатал оруулах</label_AutoDelay>
+    <label_DefaultDelay>Үндсэн саатлын хугацаа</label_DefaultDelay>
+    <label_KeyList>Товчны жагсаалт</label_KeyList>
+    <label_MacroList>Макроны жагсаалт</label_MacroList>
+    <label_MovingCloseLight>Хөдөлгөхөд гэрэл унтраах</label_MovingCloseLight>
+    <label_PowerSaveTime>Хөдөлгөөнгүй үед гэрэл унтрах хугацаа</label_PowerSaveTime>
+    <label_LEDB>B:</label_LEDB>
+    <label_LEDG>G:</label_LEDG>
+    <label_LEDR>R:</label_LEDR>
+    <label_LEDPreset>Үндсэн өнгөнүүд</label_LEDPreset>
+    <label_LEDPreview>Өнгө урьдчилан харах</label_LEDPreview>
+    <label_LEDColor>Гэрлийн өнгө</label_LEDColor>
+    <label_LightSpeed>Хурд</label_LightSpeed>
+    <label_LightBrightness>Тодрол</label_LightBrightness>
+    <label_LightMode>Гэрлийн горим</label_LightMode>
+    <customRecordMacro1_start>Бичиж эхлэх</customRecordMacro1_start>
+    <customRecordMacro1_stop>Бичихийг зогсоох</customRecordMacro1_stop>
+    <customButton_Export>Гаргах</customButton_Export>
+    <customButton_Import>Оруулах</customButton_Import>
+    <customButton_Reset>Сэргээх</customButton_Reset>
+    <customButton_Save>Хадгалах</customButton_Save>
+    <customButton_DeleteButton>Устгах</customButton_DeleteButton>
+    <customButton_ModifyButton>Засах</customButton_ModifyButton>
+    <customButton_DeleteMacro>Устгах</customButton_DeleteMacro>
+    <customButton_NewMacro>Шинэ макро</customButton_NewMacro>
+  </Control>
+  <ComboBox>
+    <ComboBoxName>customComboBox_Config</ComboBoxName>
+    <Item>Профайл 1</Item>
+    <Item>Профайл 2</Item>
+    <Item>Профайл 3</Item>
+    <Item>Профайл 4</Item>
+    <ComboBoxName>customComboBox_LOD</ComboBoxName>
+    <Item>1mm</Item>
+    <Item>2mm</Item>
+    <ComboBoxName>customComboBox_ModeSelect</ComboBoxName>
+    <Item>LP</Item>
+    <Item>HP</Item>
+    <Item>Утастай</Item>
+    <ComboBoxName>customComboBox_FullPerformance</ComboBoxName>
+    <Item>30sec</Item>
+    <Item>1min</Item>
+    <Item>2min</Item>
+    <Item>5min</Item>
+    <Item>10min</Item>
+    <Item>15min</Item>
+    <ComboBoxName>customComboBox_DPIEffect</ComboBoxName>
+    <Item>Унтраалттай</Item>
+    <Item>Тогтмол гэрэл</Item>
+    <Item>Анивчих</Item>
+    <ComboBoxName>customComboBox_InsertEvent</ComboBoxName>
+    <Item>Товч дарах</Item>
+    <Item>Товч суллах</Item>
+    <Item>Саатал</Item>
+    <Item>Зүүн товч</Item>
+    <Item>Баруун товч</Item>
+    <Item>Дунд товч</Item>
+    <Item>Урагш товч</Item>
+    <Item>Буцах товч</Item>
+    <ComboBoxName>customComboBox_PowerSaveTime</ComboBoxName>
+    <Item>10sec</Item>
+    <Item>30sec</Item>
+    <Item>1min</Item>
+    <Item>5min</Item>
+    <Item>10min</Item>
+    <Item>15min</Item>
+    <Item>20min</Item>
+    <Item>25min</Item>
+    <Item>30min</Item>
+    <Item>35min</Item>
+    <Item>40min</Item>
+    <ComboBoxName>customComboBox_LEDMode</ComboBoxName>
+    <Item>Унтраалттай</Item>
+    <Item>Хөдөлгөөнт солонго</Item>
+    <Item>Нэг өнгө</Item>
+    <Item>Тогтмол солонго</Item>
+    <Item>Неон</Item>
+    <Item>Анивчих солонго</Item>
+    <Item>Олон өнгө тогтмол</Item>
+  </ComboBox>
+  <ToolStripMenuItem>
+    <ToolStripMenuItem_OpenMenu>Цэс нээх</ToolStripMenuItem_OpenMenu>
+    <ToolStripMenuItem_Exit>Гарах</ToolStripMenuItem_Exit>
+    <ToolStripMenuItem_Modify>Засах</ToolStripMenuItem_Modify>
+    <ToolStripMenuItem_DeleteKeys>Устгах</ToolStripMenuItem_DeleteKeys>
+    <ToolStripMenuItem_ExportMacro>Гаргах</ToolStripMenuItem_ExportMacro>
+    <ToolStripMenuItem_Rename>Нэр солих</ToolStripMenuItem_Rename>
+    <ToolStripMenuItem_DeleteMacro>Устгах</ToolStripMenuItem_DeleteMacro>
+    <ToolStripMenuItem_NewMacro>Шинэ макро үүсгэх</ToolStripMenuItem_NewMacro>
+    <ToolStripMenuItem_ImportMacro>Оруулах</ToolStripMenuItem_ImportMacro>
+  </ToolStripMenuItem>
+  <Setting>
+    <DriveVersion>Драйверын хувилбар：</DriveVersion>
+    <DongleVersion>Хүлээн авагчийн фирмвэр：</DongleVersion>
+    <MouseVersion>Хулганы фирмвэр：</MouseVersion>
+  </Setting>
+  <Dialog>
+    <Macro>Макро</Macro>
+    <NoResources>Нөөц файл олдсонгүй</NoResources>
+    <ErrorDriveConfig>Драйверын тохиргоо алдаатай эсвэл байхгүй байна</ErrorDriveConfig>
+    <ProgramRuning>Программ аль хэдийн ажиллаж байна</ProgramRuning>
+    <DeviceConnecting>Түр хүлээнэ үү, шинэчлэлт хийгдэж байна</DeviceConnecting>
+    <ConnectTimeout>Хугацаа хэтэрлээ, хулганаа хөдөлгөнө үү</ConnectTimeout>
+    <NoDevice>Ажиллуулах боломжтой төхөөрөмж олдсонгүй</NoDevice>
+    <MaxComboKey>Товчны хослолд хамгийн ихдээ гурван товч байж болно</MaxComboKey>
+    <ErrorMacroFile>Оруулж буй файл алдаатай байна</ErrorMacroFile>
+    <CreateMacro>Эхлээд шинэ макро үүсгэнэ үү</CreateMacro>
+    <SameMacro>Энэ макроны нэр аль хэдийн ашиглагдсан байна</SameMacro>
+    <EditMacroName>Макроны нэрийг оруулна уу</EditMacroName>
+    <SelectMacro>Макро сонгоно уу</SelectMacro>
+    <StopMacro>Эхлээд макро бичихийг зогсооно уу</StopMacro>
+    <InsertKey>Товч оруулна уу</InsertKey>
+    <Delete>Устгахдаа итгэлтэй байна уу?</Delete>
+    <MaxMacroKey>Макро товчны тоо дээд хэмжээндээ хүрлээ</MaxMacroKey>
+    <InsertDelay>Саатлын хугацааг оруулна уу (мс)</InsertDelay>
+    <FireKeyTimes>Тоо (0-3)</FireKeyTimes>
+    <FireKeyInterval>Хугацааны зай (10-255)</FireKeyInterval>
+    <InputComboKey>Товчийг дарна уу</InputComboKey>
+    <FireKeyTips>Давтах тоог 0 болговол товчийг дарж байх үед давтаж, суллахад зогсоно.</FireKeyTips>
+    <ReserveLeftKey>Зүүн товчийг заавал үлдээх ёстой</ReserveLeftKey>
+    <DebounceTips>Анхаар: Саатлыг багасгавал давхар товшилт үүсэж болно. Хэрэв давхар товшилт гарвал давхар товшихгүй болтол саатлыг нэмнэ үү</DebounceTips>
+    <ConfigSelect>Тохиргоо солих боломжгүй</ConfigSelect>
+    <ResetConfig>Тохиргоог анхны төлөвт нь буцаах уу?</ResetConfig>
+    <ImportConfig>Түр хүлээнэ үү, тохиргоог оруулж байна</ImportConfig>
+    <ErrorConfig>Тохиргоо оруулахад алдаа гарлаа</ErrorConfig>
+    <ErrorDevice>Оруулж буй тохиргоо энэ төхөөрөмжид тохирохгүй байна</ErrorDevice>
+    <MultiOnline>Хэрэв ижил төхөөрөмж олон байвал ашиглах шаардлагатайг нь үлдээнэ үү</MultiOnline>
+    <EnterPair>Дахин хослуулах шаардлагатай юу?</EnterPair>
+    <Offline>Төхөөрөмж холбогдоогүй байна, хулганаа хөдөлгөнө үү</Offline>
+    <NewDeviceOnline>Шинэ төхөөрөмж холбогдлоо</NewDeviceOnline>
+    <LeftShift>Зүүн Shift</LeftShift>
+    <RightShift>Баруун Shift</RightShift>
+    <MoveUp>Дээш</MoveUp>
+    <MoveDown>Доош</MoveDown>
+    <OK>За (Enter)</OK>
+    <Cancel>Цуцлах (Esc)</Cancel>
+    <SelectDeviceFirst>Төхөөрөмж сонгоно уу</SelectDeviceFirst>
+    <SelectDevice>Төхөөрөмж сонгох</SelectDevice>
+    <StartPair>Хослуулж эхлэх (Space)</StartPair>
+    <PairTips>Хулганы зүүн, баруун, дунд товчийг зэрэг дарахад шар гэрэл анивчиж хослуулалт эхэлснийг илтгэнэ. Дараа нь Space дарах эсвэл “Хослуулж эхлэх” товчийг дарвал драйвер хослуулах горимд орно.</PairTips>
+    <MultiPairDevice>Нэгээс олон хүлээн авагч илэрлээ. Хослуулах гэж буй хүлээн авагчаа л үлдээнэ үү</MultiPairDevice>
+    <NoPairDevice>Хүлээн авагч илрээгүй байна. Хүлээн авагчаа залгасан эсэхээ шалгана уу</NoPairDevice>
+    <CantPair>Хослуулахын тулд утасгүй горимд байх шаардлагатай</CantPair>
+    <OnlyWired>Хулганыг зөвхөн утастай горимд шинэчлэх боломжтой</OnlyWired>
+    <DevicePairing>Хослуулж байна</DevicePairing>
+    <PairSuccess>Амжилттай хослуулав</PairSuccess>
+    <PairFail>Хослуулж чадсангүй</PairFail>
+    <PairRetry>Дахин оролдох</PairRetry>
+    <PairingTool>Хослуулах хэрэгсэл</PairingTool>
+    <CheckUpdate>Шинэчлэлт шалгах</CheckUpdate>
+    <CheckingUpdate>Шалгаж байна</CheckingUpdate>
+    <LatestVersion>Хамгийн сүүлийн хувилбар</LatestVersion>
+    <Updating>Шинэчилж байна</Updating>
+    <UpdateSuccess>Амжилттай шинэчлэв</UpdateSuccess>
+    <UpdateFail>Шинэчилж чадсангүй</UpdateFail>
+    <UpdatingDontMove>Төхөөрөмж шинэчлэгдэж байна, салгаж болохгүй</UpdatingDontMove>
+    <ConnectDevice>Тоглоомын төхөөрөмжөө холбоно уу</ConnectDevice>
+    <RepairDevice>Эхлээд амжилтгүй болсон төхөөрөмжийг шинэчилнэ үү (Enter дарах эсвэл анхааруулах тэмдэг дээр дарна)</RepairDevice>
+    <AdvancedSetting>Нэмэлт тохиргоо</AdvancedSetting>
+    <PowerBetterMode>Хол зайн горим</PowerBetterMode>
+    <CantSet>Тохируулахын тулд утасгүй горимд байх шаардлагатай</CantSet>
+    <PowerModeSelectTips>Хол зайн горимд холбооны зай нэмэгдэж, саад тэсвэрлэх чадвар сайжирна. Харин тэжээлийн зарцуулалт нэмэгдэж, ажиллах хугацаа багасна</PowerModeSelectTips>
+    <MousepadSurfaceCal>Хулганы дэвсгэрийн калибрац</MousepadSurfaceCal>
+    <ManualCal>Гараар</ManualCal>
+    <NonsupCal>Энэ мэдрэгч гарын калибрацыг дэмждэггүй</NonsupCal>
+    <MousepadSurfaceCalTips>Хулгана болон дэвсгэрт тань хамгийн тохиромжтой утгыг олж, хөдөлгөөний нарийвчлалыг сайжруулна</MousepadSurfaceCalTips>
+    <WinSystemMouse>Windows хулганы тохиргоо</WinSystemMouse>
+    <StartCal>“Эхлэх” товчийг дараад хулганаа сумны чиглэлд хөдөлгөнө үү.</StartCal>
+    <BeingCal>Калибрац хийгдэж байна! Дуустал хулганаа үргэлжлүүлэн хөдөлгөнө үү</BeingCal>
+    <CalPass>Калибрац амжилттай</CalPass>
+    <CalFail>Калибрац амжилтгүй</CalFail>
+    <Start>Эхлэх</Start>
+    <Back>Буцах</Back>
+    <Retry>Дахин оролдох</Retry>
+    <DongleLED>Хүлээн авагч дээрх LED-ийн харуулах мэдээллийг тохируулах：</DongleLED>
+    <ConnectionState>Холболтын төлөв ба дуудлагын давтамж (хулгана холбогдсон үед). Улаан (125Hz), Цэнхэр (250Hz), Шар (500Hz), Улбар шар (1000Hz), Ягаан (2000Hz), Ногоон (4000Hz).</ConnectionState>
+    <BatteryState>Цэнэгийн төлөв (хулганы одоогийн цэнэгээр). Ногоон (100%), Шар (66%), Улбар шар (33%), Улаан (0%)</BatteryState>
+    <OnlyBattery>Зөвхөн цэнэгийн анхааруулга (гэрэл унтраалттай байж, цэнэг дуусах үед л улаанаар анивчина)</OnlyBattery>
+    <Language>Хэл</Language>
+    <DeviceInfo>Төхөөрөмжийн мэдээлэл</DeviceInfo>
+    <Other>Бусад</Other>
+    <Pair>Хослуулах (Space)</Pair>
+    <RunOnBoot>Компьютер асахад ажиллах</RunOnBoot>
+    <OfflineTips1>Хулгана холбогдоогүй бол эхлээд хөдөлгөнө үү</OfflineTips1>
+    <OfflineTips2>Хослуулаагүй бол зураг дээр дарж хослуулах горимд орно уу</OfflineTips2>
+    <OfflineTips3>Хослуулаагүй бол Space дарж хослуулах горимд орно уу</OfflineTips3>
+    <DefaultDelayMin>Үндсэн саатал 10-аас багагүй байна</DefaultDelayMin>
+    <DevNewVerTips>Хулгана болон хүлээн авагчийг хамт хамгийн сүүлийн фирмвэр рүү шинэчилнэ үү. Бүгд амжилттай шинэчлэгдсэний дараа хослуулж ашиглана уу!</DevNewVerTips>
+    <DongleIsNewTips>Хулганы шинэ фирмвэр олдлоо, утастай горимд шинэчилнэ үү!</DongleIsNewTips>
+    <MouseIsNewTips>Хүлээн авагчийн шинэ фирмвэр олдлоо, одоо шинэчлэх үү?</MouseIsNewTips>
+    <FirmwareNewTips>Шинэ фирмвэр олдлоо, шинэчилнэ үү!</FirmwareNewTips>
+    <DontShowAgain>Дараа дахин харуулахгүй</DontShowAgain>
+    <EnterUse>Ашиглаж эхлэхийн тулд зураг дээр дарна уу</EnterUse>
+    <ReturnHomePage>Нүүр хуудас руу буцах</ReturnHomePage>
+    <MotionSyncDes>хөдөлгөөний синхрон</MotionSyncDes>
+    <FixLineDes>өнцөг тэгшлэх</FixLineDes>
+    <RippleDes>чичиргээ засах</RippleDes>
+    <LODDes>Өргөх мэдрэх тохиргоо</LODDes>
+    <ModeSelectDes> LP: бага тэжээлийн горим; HP: өндөр хүчин чадлын горим; corded: утастай тоглоомын горим</ModeSelectDes>
+    <FullPerformanceDes>Мэдрэгчийн LED тод асч, мэдрэгч дээд хүчин чадлаараа ажиллана</FullPerformanceDes>
+  </Dialog>
+  <KeyFunction>
+    <name>Зүүн товч</name>
+    <name>Баруун товч</name>
+    <name>Дунд товч</name>
+    <name>Буцах</name>
+    <name>Урагш</name>
+    <name>Давтамж солих</name>
+    <name>Галын товч</name>
+    <name>Хослол товч</name>
+    <name>Идэвхгүй</name>
+    <name>Дээш/доош гүйлгэх</name>
+    <name>Зүүн/баруун гүйлгэх</name>
+    <name>DPI солих</name>
+    <name>Медиа товч</name>
+    <name>DPI түгжих</name>
+    <name>Макро</name>
+  </KeyFunction>
+  <SubKeyFunction>
+    <name>DPI давталт</name>
+    <name>DPI+</name>
+    <name>DPI-</name>
+    <name>Зүүн гүйлгэх</name>
+    <name>Баруун гүйлгэх</name>
+    <name>Дээш гүйлгэх</name>
+    <name>Доош гүйлгэх</name>
+    <name>Тоглуулагч</name>
+    <name>Тоглуулах/Түр зогсоох</name>
+    <name>Дараах</name>
+    <name>Өмнөх</name>
+    <name>Зогсоох</name>
+    <name>Дуугүй</name>
+    <name>Дуу +</name>
+    <name>Дуу -</name>
+    <name>И-мэйл</name>
+    <name>Тооцоолуур</name>
+    <name>Миний компьютер</name>
+    <name>Нүүр хуудас</name>
+    <name>Хайх</name>
+    <name>Хөтөч урагш</name>
+    <name>Хөтөч буцах</name>
+    <name>Зогсоох</name>
+    <name>Сэргээх</name>
+    <name>Хавчуурга</name>
+    <name>Бүх гэрэл асаах/унтраах</name>
+    <name>Гэрлийн туйван асаах/унтраах</name>
+    <name>Гэрлийн эффект дараалан солих</name>
+    <name>100</name>
+    <name>200</name>
+    <name>300</name>
+    <name>400</name>
+    <name>500</name>
+    <name>600</name>
+    <name>700</name>
+    <name>800</name>
+    <name>900</name>
+    <name>1000</name>
+    <name>1100</name>
+    <name>1200</name>
+  </SubKeyFunction>
+  <DebounceTime>
+    <name>0ms</name>
+    <name>1ms</name>
+    <name>2ms</name>
+    <name>3ms</name>
+    <name>4ms</name>
+    <name>5ms</name>
+    <name>6ms</name>
+    <name>7ms</name>
+    <name>8ms</name>
+    <name>9ms</name>
+    <name>10ms</name>
+    <name>11ms</name>
+    <name>12ms</name>
+    <name>13ms</name>
+    <name>14ms</name>
+    <name>15ms</name>
+    <name>16ms</name>
+    <name>17ms</name>
+    <name>18ms</name>
+    <name>19ms</name>
+    <name>20ms</name>
+  </DebounceTime>
+</Монгол>
