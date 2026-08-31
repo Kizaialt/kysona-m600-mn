@@ -75,12 +75,12 @@ foreach ($drv in $found) {
     # Хуучин монгол файл байвал устгаад дахин хуулна (индекс өөрчлөгдсөн байж болно)
     Get-ChildItem $langDir -Filter '*.xml' -File |
         Where-Object { $_.Name -match 'Монгол' } |
-        ForEach-Object { Remove-Item $_.FullName -Force }
+        ForEach-Object { [IO.File]::Delete($_.FullName) }
 
     # Дараагийн сул индексийг олох
     $used = @()
     foreach ($f in (Get-ChildItem $langDir -Filter '*.xml' -File)) {
-        if ($f.Name -match '^(\d+)-') { $used += [int]$Matches[1] }
+        if ($f.Name -match '^([0-9]+)-') { $used += [int]$Matches[1] }
     }
     $next = if ($used.Count) { ($used | Measure-Object -Maximum).Maximum + 1 } else { 0 }
     $target = Join-Path $langDir ("$next-" + [char]0x041C+[char]0x043E+[char]0x043D+[char]0x0433+[char]0x043E+[char]0x043B + '.xml')

@@ -15,7 +15,7 @@
     <label_Report>Дуудлагын давтамж</label_Report>
     <label_DPIBrightness>Тодрол</label_DPIBrightness>
     <label_DPISpeed>Хурд</label_DPISpeed>
-    <label_DPIEffect>DPI гэрлийн эффект</label_DPIEffect>
+    <label_DPIEffect>DPI гэрэлтүүлгийн эффект</label_DPIEffect>
     <label_CycleTimes>Давтах тоо</label_CycleTimes>
     <label_UntilThisKeyPressed>Энэ товчийг дартал давтах</label_UntilThisKeyPressed>
     <label_UntilKeyPressed>Товч дартал давтах</label_UntilKeyPressed>
@@ -23,7 +23,7 @@
     <label_InsertEvent>Үйлдэл оруулах</label_InsertEvent>
     <label_AutoDelay>Автоматаар саатал оруулах</label_AutoDelay>
     <label_DefaultDelay>Үндсэн саатлын хугацаа</label_DefaultDelay>
-    <label_KeyList>Товчны жагсаалт</label_KeyList>
+    <label_KeyList>Товчлуурын жагсаалт</label_KeyList>
     <label_MacroList>Макроны жагсаалт</label_MacroList>
     <label_MovingCloseLight>Хөдөлгөхөд гэрэл унтраах</label_MovingCloseLight>
     <label_PowerSaveTime>Хөдөлгөөнгүй үед гэрэл унтрах хугацаа</label_PowerSaveTime>
@@ -113,9 +113,9 @@
     <ToolStripMenuItem_ImportMacro>Оруулах</ToolStripMenuItem_ImportMacro>
   </ToolStripMenuItem>
   <Setting>
-    <DriveVersion>Драйверын хувилбар：</DriveVersion>
-    <DongleVersion>Хүлээн авагчийн фирмвэр：</DongleVersion>
-    <MouseVersion>Хулганы фирмвэр：</MouseVersion>
+    <DriveVersion>Драйверын хувилбар:</DriveVersion>
+    <DongleVersion>Хүлээн авагчийн фирмвэр:</DongleVersion>
+    <MouseVersion>Хулганы фирмвэр:</MouseVersion>
   </Setting>
   <Dialog>
     <Macro>Макро</Macro>
@@ -138,7 +138,7 @@
     <InsertDelay>Саатлын хугацааг оруулна уу (мс)</InsertDelay>
     <FireKeyTimes>Тоо (0-3)</FireKeyTimes>
     <FireKeyInterval>Хугацааны зай (10-255)</FireKeyInterval>
-    <InputComboKey>Товчийг дарна уу</InputComboKey>
+    <InputComboKey>Товчлуурыг дарна уу</InputComboKey>
     <FireKeyTips>Давтах тоог 0 болговол товчийг дарж байх үед давтаж, суллахад зогсоно.</FireKeyTips>
     <ReserveLeftKey>Зүүн товчийг заавал үлдээх ёстой</ReserveLeftKey>
     <DebounceTips>Анхаар: Саатлыг багасгавал давхар товшилт үүсэж болно. Хэрэв давхар товшилт гарвал давхар товшихгүй болтол саатлыг нэмнэ үү</DebounceTips>
@@ -153,8 +153,8 @@
     <NewDeviceOnline>Шинэ төхөөрөмж холбогдлоо</NewDeviceOnline>
     <LeftShift>Зүүн Shift</LeftShift>
     <RightShift>Баруун Shift</RightShift>
-    <MoveUp>Дээш</MoveUp>
-    <MoveDown>Доош</MoveDown>
+    <MoveUp>Дээш зөөх</MoveUp>
+    <MoveDown>Доош зөөх</MoveDown>
     <OK>За (Enter)</OK>
     <Cancel>Цуцлах (Esc)</Cancel>
     <SelectDeviceFirst>Төхөөрөмж сонгоно уу</SelectDeviceFirst>
@@ -235,7 +235,7 @@
     <name>Дээш/доош гүйлгэх</name>
     <name>Зүүн/баруун гүйлгэх</name>
     <name>DPI солих</name>
-    <name>Медиа товч</name>
+    <name>Медиа товчлуур</name>
     <name>DPI түгжих</name>
     <name>Макро</name>
   </KeyFunction>
@@ -265,8 +265,8 @@
     <name>Зогсоох</name>
     <name>Сэргээх</name>
     <name>Хавчуурга</name>
-    <name>Бүх гэрэл асаах/унтраах</name>
-    <name>Гэрлийн туйван асаах/унтраах</name>
+    <name>Бүх гэрлийг асаах/унтраах</name>
+    <name>Гэрлийн тууз асаах/унтраах</name>
     <name>Гэрлийн эффект дараалан солих</name>
     <name>100</name>
     <name>200</name>
