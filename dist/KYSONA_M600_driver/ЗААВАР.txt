@@ -8,7 +8,7 @@
 ХЭРХЭН СУУЛГАХ:
   1. Эхлээд KYSONA-гийн жинхэнэ драйверыг суулгасан байх ёстой.
      (https://shop.kysona.com/pages/downloads)
-  2. "install-mn.bat" дээр хоёр товшино уу.
+  2. "Install_Suulgah.bat" дээр хоёр товшино уу.
      (Windows администратор эрх асууна — Тийм гэж хариулна уу)
   3. Драйверыг нээгээд:  Setting → Language → Монгол
 

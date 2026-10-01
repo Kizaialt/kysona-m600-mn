@@ -128,7 +128,7 @@ README = u"""KYSONA M600 — Монгол хэлний багц
 ХЭРХЭН СУУЛГАХ:
   1. Эхлээд KYSONA-гийн жинхэнэ драйверыг суулгасан байх ёстой.
      (https://shop.kysona.com/pages/downloads)
-  2. "install-mn.bat" дээр хоёр товшино уу.
+  2. "Install_Suulgah.bat" дээр хоёр товшино уу.
      (Windows администратор эрх асууна — Тийм гэж хариулна уу)
   3. Драйверыг нээгээд:  Setting → Language → {name}
 
@@ -188,8 +188,11 @@ def main():
         os.makedirs(pack_dir, exist_ok=True)
         open(os.path.join(pack_dir, out_name), 'wb').write(blob)
 
-        for name in ('install-mn.bat', 'install-mn.ps1'):
-            shutil.copy(os.path.join(ROOT, 'pack', name), os.path.join(pack_dir, name))
+        # one launcher name everywhere: the customer is always told to run Install_Suulgah.bat
+        shutil.copy(os.path.join(ROOT, 'pack', 'launcher-mn.bat'), os.path.join(pack_dir, 'Install_Suulgah.bat'))
+        shutil.copy(os.path.join(ROOT, 'pack', 'install-mn.ps1'), os.path.join(pack_dir, 'install-mn.ps1'))
+        if os.path.exists(os.path.join(pack_dir, 'install-mn.bat')):
+            os.remove(os.path.join(pack_dir, 'install-mn.bat'))
         with io.open(os.path.join(pack_dir, 'ЗААВАР.txt'), 'w',
                      encoding='utf-8-sig', newline='\r\n') as fh:
             fh.write(README.format(name=LANG_NAME, file=out_name))
