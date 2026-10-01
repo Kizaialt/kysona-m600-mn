@@ -17,9 +17,9 @@
     <label_DPISpeed>Хурд</label_DPISpeed>
     <label_DPIEffect>DPI гэрэлтүүлгийн эффект</label_DPIEffect>
     <label_CycleTimes>Давтах тоо</label_CycleTimes>
-    <label_UntilThisKeyPressed>Энэ товчийг дартал давтах</label_UntilThisKeyPressed>
-    <label_UntilKeyPressed>Товч дартал давтах</label_UntilKeyPressed>
-    <label_UntilKeyReleased>Товч суллатал давтах</label_UntilKeyReleased>
+    <label_UntilThisKeyPressed>Энэ товчлуурыг дартал давтах</label_UntilThisKeyPressed>
+    <label_UntilKeyPressed>Товчлуур дартал давтах</label_UntilKeyPressed>
+    <label_UntilKeyReleased>Товчлуур суллатал давтах</label_UntilKeyReleased>
     <label_InsertEvent>Үйлдэл оруулах</label_InsertEvent>
     <label_AutoDelay>Автоматаар саатал оруулах</label_AutoDelay>
     <label_DefaultDelay>Үндсэн саатлын хугацаа</label_DefaultDelay>
@@ -72,8 +72,8 @@
     <Item>Тогтмол гэрэл</Item>
     <Item>Анивчих</Item>
     <ComboBoxName>customComboBox_InsertEvent</ComboBoxName>
-    <Item>Товч дарах</Item>
-    <Item>Товч суллах</Item>
+    <Item>Товчлуур дарах</Item>
+    <Item>Товчлуур суллах</Item>
     <Item>Саатал</Item>
     <Item>Зүүн товч</Item>
     <Item>Баруун товч</Item>
@@ -125,16 +125,16 @@
     <DeviceConnecting>Түр хүлээнэ үү, шинэчлэлт хийгдэж байна</DeviceConnecting>
     <ConnectTimeout>Хугацаа хэтэрлээ, хулганаа хөдөлгөнө үү</ConnectTimeout>
     <NoDevice>Ажиллуулах боломжтой төхөөрөмж олдсонгүй</NoDevice>
-    <MaxComboKey>Товчны хослолд хамгийн ихдээ гурван товч байж болно</MaxComboKey>
+    <MaxComboKey>Товчлуурын хослолд хамгийн ихдээ гурван товчлуур байж болно</MaxComboKey>
     <ErrorMacroFile>Оруулж буй файл алдаатай байна</ErrorMacroFile>
     <CreateMacro>Эхлээд шинэ макро үүсгэнэ үү</CreateMacro>
     <SameMacro>Энэ макроны нэр аль хэдийн ашиглагдсан байна</SameMacro>
     <EditMacroName>Макроны нэрийг оруулна уу</EditMacroName>
     <SelectMacro>Макро сонгоно уу</SelectMacro>
     <StopMacro>Эхлээд макро бичихийг зогсооно уу</StopMacro>
-    <InsertKey>Товч оруулна уу</InsertKey>
+    <InsertKey>Товчлуур оруулна уу</InsertKey>
     <Delete>Устгахдаа итгэлтэй байна уу?</Delete>
-    <MaxMacroKey>Макро товчны тоо дээд хэмжээндээ хүрлээ</MaxMacroKey>
+    <MaxMacroKey>Макро товчлуурын тоо дээд хэмжээндээ хүрлээ</MaxMacroKey>
     <InsertDelay>Саатлын хугацааг оруулна уу (мс)</InsertDelay>
     <FireKeyTimes>Тоо (0-3)</FireKeyTimes>
     <FireKeyInterval>Хугацааны зай (10-255)</FireKeyInterval>
@@ -230,7 +230,7 @@
     <name>Урагш</name>
     <name>Polling Rate солих</name>
     <name>Галын товч</name>
-    <name>Хослол товч</name>
+    <name>Хослол товчлуур</name>
     <name>Идэвхгүй</name>
     <name>Дээш/доош гүйлгэх</name>
     <name>Зүүн/баруун гүйлгэх</name>
